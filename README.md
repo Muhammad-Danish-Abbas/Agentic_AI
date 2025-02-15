@@ -5,17 +5,22 @@
 
 ## Installation
 [Link Text](https://docs.astral.sh/uv/getting-started/installation/)
-  
-''' 
+ ```  
 uv --version 
-* uv --help
+uv --help
+```
 ### Simple project 1
-* uv init project1
+```
+ uv init project1
+```
  ### In tmol file
-* uv run hello.py
+ ```
+ uv run hello.py
+```
 ### Second project with src
-* uv init --package project2
-
+```
+ uv init --package project2
+```
 # litellm
 
 [Link Text](https://docs.litellm.ai/docs/providers/gemini)
