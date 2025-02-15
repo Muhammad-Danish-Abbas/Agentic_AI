@@ -6,7 +6,8 @@
 ## Installation
 [Link Text](https://docs.astral.sh/uv/getting-started/installation/)
   
-' uv --version '
+''' 
+uv --version 
 * uv --help
 ### Simple project 1
 * uv init project1
