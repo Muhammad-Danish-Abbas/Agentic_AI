@@ -1,4 +1,4 @@
- ![Lion Picture](https://www.highreshdwallpapers.com/wp-content/uploads/2013/06/Majestic-Lion-Wallpaper.jpg)
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 
 ## What is UV?
